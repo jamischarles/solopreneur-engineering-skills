@@ -1,0 +1,21 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "solopreneur-engineering-skills",
+  "displayName": "Solopreneur Engineering Skills",
+  "description": "Agent skills for solo developers shipping real software. Cost control, shipping discipline, working with AI coding agents, and scope management.",
+  "author": "Jamis Charles",
+  "license": "MIT",
+  "repository": "https://github.com/jamischarles/solopreneur-engineering-skills",
+  "plugins": [
+    {
+      "name": "solopreneur-engineering-skills",
+      "description": "All skills in this repo.",
+      "skills": [
+        "skills/ai-pair-programming",
+        "skills/cost-control",
+        "skills/scope-discipline",
+        "skills/ship-daily"
+      ]
+    }
+  ]
+}
