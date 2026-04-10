@@ -13,8 +13,11 @@
       "skills": [
         "skills/ai-pair-programming",
         "skills/cost-control",
+        "skills/incremental-investment",
+        "skills/minimum-effective-dose",
         "skills/scope-discipline",
-        "skills/ship-daily"
+        "skills/ship-daily",
+        "skills/task-shaping"
       ]
     }
   ]

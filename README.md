@@ -14,8 +14,11 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 |-------|-------------|
 | [ai-pair-programming](skills/ai-pair-programming/) | Work effectively with AI coding agents — scoping tasks, reviewing output, avoiding over-delegation, knowing when to drive vs. let the agent drive. |
 | [cost-control](skills/cost-control/) | Stop hammering paid APIs during development. Mock layers, persistent caching, rate limiting, and "is this call necessary?" instincts for solo budgets. |
+| [incremental-investment](skills/incremental-investment/) | Apply ROI thinking to fixes, automation, and tooling. Small one-time pain doesn't warrant a large investment. Fix-or-ignore matrix and break-even math. |
+| [minimum-effective-dose](skills/minimum-effective-dose/) | Build the dumbest version of a solution that still solves the problem. The dose-escalation ladder, the "would a spreadsheet work?" test, and resisting cathedral-building. |
 | [scope-discipline](skills/scope-discipline/) | Say no to features. Ship MVPs. Cut before adding. Resist the solo-dev tendency to build the framework before the product. |
 | [ship-daily](skills/ship-daily/) | Ship something every day. Small PRs, continuous deployment, deploy-first mindset. Avoid long branches and pre-launch perfectionism. |
+| [task-shaping](skills/task-shaping/) | Shape work before building — appetite, solution sketch, rabbit holes, no-gos. Solo-dev adaptation of Shape Up (Ryan Singer). |
 
 ## Installation
 
